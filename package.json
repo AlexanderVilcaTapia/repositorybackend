@@ -7,7 +7,7 @@
   "private": false,
   "scripts": {
     "dev": "nodemon index.js",
-    "stat": "node index.js"
+    "start": "node index.js"
   },
   "devDependencies": {
     "dotenv": "^18.0.6",
